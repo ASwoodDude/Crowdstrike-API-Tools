@@ -1,2 +1,2 @@
 # Crowdstrike-API-Tools
-Tools for engage with the Crowdstrike API
+Tools for engaging with the Crowdstrike API
